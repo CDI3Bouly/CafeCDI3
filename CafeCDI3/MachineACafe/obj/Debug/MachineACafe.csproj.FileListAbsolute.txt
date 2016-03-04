@@ -1,0 +1,5 @@
+C:\Users\bphou\Documents\ENS\CDI 3\Projets C#\CafeCDI3\MachineACafe\bin\Debug\MachineACafe.dll
+C:\Users\bphou\Documents\ENS\CDI 3\Projets C#\CafeCDI3\MachineACafe\bin\Debug\MachineACafe.pdb
+C:\Users\bphou\Documents\ENS\CDI 3\Projets C#\CafeCDI3\MachineACafe\obj\Debug\MachineACafe.dll
+C:\Users\bphou\Documents\ENS\CDI 3\Projets C#\CafeCDI3\MachineACafe\obj\Debug\MachineACafe.pdb
+C:\Users\bphou\Documents\ENS\CDI 3\Projets C#\CafeCDI3\MachineACafe\obj\Debug\MachineACafe.csprojResolveAssemblyReference.cache

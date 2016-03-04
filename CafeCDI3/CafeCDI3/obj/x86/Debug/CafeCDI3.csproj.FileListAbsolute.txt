@@ -1,0 +1,11 @@
+C:\Users\bphou\Documents\ENS\CDI 3\Projets C#\CafeCDI3\CafeCDI3\bin\Debug\CafeCDI3.exe
+C:\Users\bphou\Documents\ENS\CDI 3\Projets C#\CafeCDI3\CafeCDI3\bin\Debug\CafeCDI3.pdb
+C:\Users\bphou\Documents\ENS\CDI 3\Projets C#\CafeCDI3\CafeCDI3\obj\x86\Debug\CafeCDI3.csprojResolveAssemblyReference.cache
+C:\Users\bphou\Documents\ENS\CDI 3\Projets C#\CafeCDI3\CafeCDI3\obj\x86\Debug\CafeCDI3Project.CafeCDI3Form.resources
+C:\Users\bphou\Documents\ENS\CDI 3\Projets C#\CafeCDI3\CafeCDI3\obj\x86\Debug\CafeCDI3Project.Properties.Resources.resources
+C:\Users\bphou\Documents\ENS\CDI 3\Projets C#\CafeCDI3\CafeCDI3\obj\x86\Debug\CafeCDI3.csproj.GenerateResource.Cache
+C:\Users\bphou\Documents\ENS\CDI 3\Projets C#\CafeCDI3\CafeCDI3\obj\x86\Debug\CafeCDI3.exe
+C:\Users\bphou\Documents\ENS\CDI 3\Projets C#\CafeCDI3\CafeCDI3\obj\x86\Debug\CafeCDI3.pdb
+C:\Users\bphou\Documents\ENS\CDI 3\Projets C#\CafeCDI3\CafeCDI3\bin\Debug\MachineACafe.dll
+C:\Users\bphou\Documents\ENS\CDI 3\Projets C#\CafeCDI3\CafeCDI3\bin\Debug\MachineACafe.pdb
+C:\Users\bphou\Documents\ENS\CDI 3\Projets C#\CafeCDI3\CafeCDI3\obj\x86\Debug\CafeCDI3Project.PasswordPrompt.resources

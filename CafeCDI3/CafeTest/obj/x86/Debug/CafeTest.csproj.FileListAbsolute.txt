@@ -1,0 +1,7 @@
+C:\Users\bphou\Documents\ENS\CDI 3\Projets C#\CafeCDI3\CafeTest\bin\Debug\CafeTest.exe
+C:\Users\bphou\Documents\ENS\CDI 3\Projets C#\CafeCDI3\CafeTest\bin\Debug\CafeTest.pdb
+C:\Users\bphou\Documents\ENS\CDI 3\Projets C#\CafeCDI3\CafeTest\bin\Debug\MachineACafe.dll
+C:\Users\bphou\Documents\ENS\CDI 3\Projets C#\CafeCDI3\CafeTest\bin\Debug\MachineACafe.pdb
+C:\Users\bphou\Documents\ENS\CDI 3\Projets C#\CafeCDI3\CafeTest\obj\x86\Debug\CafeTest.csprojResolveAssemblyReference.cache
+C:\Users\bphou\Documents\ENS\CDI 3\Projets C#\CafeCDI3\CafeTest\obj\x86\Debug\CafeTest.exe
+C:\Users\bphou\Documents\ENS\CDI 3\Projets C#\CafeCDI3\CafeTest\obj\x86\Debug\CafeTest.pdb
